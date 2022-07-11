@@ -1,0 +1,6 @@
+[0,1,2,3,4,5,6,7,8]
+root 4 dür
+solunda [0,1,2,3] sağında [5,6,7,8] bulunur.
+solda root 1 dir solunda [0] sağında [2,3] bulunur.(2'nin sağında 3 bulunur)
+sağda root 6 dır. solunda [5] sağında [7,8] bulunur (7'nin sağında 8 bulunur.)
+  
